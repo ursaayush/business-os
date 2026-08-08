@@ -1,25 +1,41 @@
-# The operating system — the living synthesis of this business
+# The operating system — the living synthesis
 
-> **Empty until captured.** This file is filled from [`sessions/`](sessions/) grill captures
-> only — in the owner's words, never invented. It becomes the single best "understand this
-> business in five minutes" read.
+> **Captured, never invented.** Built from [`sessions/`](sessions/) only — Sam's words.
+> Source: [`sessions/2026-08-08-goals-and-direction.md`](sessions/2026-08-08-goals-and-direction.md).
+> Gaps below are real gaps, waiting on a grill — not oversights.
 
-## What the business is
+## What this is
 
-_(to be captured — run the first grill: say "grill me about my business")_
+Not a company — **Sam's career in internal auditing and compliance**, run deliberately instead
+of drifting. The system holds the goals, the plan, and the one asset being built along the way:
+a risk and control database.
 
-## Who it's for
+## What's being built
 
-_(to be captured)_
+A **database of risks by organizational function**, each risk carrying its controls, and — for
+ICFR controls — the **testing attributes**. In Sam's words: *"risks within different functions
+of an organization along with controls and testing attributes for the ICFR controls."*
 
-## What it sells (or will sell)
-
-_(to be captured)_
+Whether it serves his current employer or is his own portfolio piece: **not yet captured.**
 
 ## What winning looks like
 
-_(to be captured — the 6-month picture, the targets)_
+Four goals, Sam's own framing, on a **two-month clock** (to ~2026-10-08):
 
-## How the owner works best
+1. The risk & control database exists and is usable.
+2. **CIA exam passed** — sitting September 2026. _(Which part, and the date: not yet captured.)_
+3. **Job changed, a rung up.**
+4. **Netherlands** — an internal audit role there. Sam's stated short-term goal.
 
-_(to be captured — strengths, energy, non-negotiables)_
+Sam's bar, in his words: *"my goals are paramount"* — he wants clear tasks and deliverables,
+maximum value, in a *"simple genius way."*
+
+## How Sam works best
+
+_(not yet captured — worth a grill: hours, energy, what to protect him from, how he wants to be
+pushed when the exam and the job hunt collide.)_
+
+## Who it's for
+
+_(not applicable yet — no external customer. If the risk database ever becomes a product or a
+consulting offer, this becomes a real question.)_

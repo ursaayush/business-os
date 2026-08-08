@@ -11,7 +11,7 @@
 
 | # | Grill session (say: "grill me about …") | Fills | Status |
 |---|---|---|---|
-| 1 | **my business** — what it is, who it's for, what winning looks like | `brain/operating-system.md` | ⬜ not started |
+| 1 | **my business** — what it is, who it's for, what winning looks like | `brain/operating-system.md` | 🟡 in progress — captured 2026-08-08 (goals + direction). Missing: current role, experience, how Sam works best. |
 | 2 | **my customer** — the one person we picture, their problem in their words | `studio/POSITIONING.md` (top half) | ⬜ not started |
 | 3 | **the offer** — what exactly is sold, at what price, why us | `studio/POSITIONING.md` (bottom half) + `brain/operating-system.md` | ⬜ not started |
 | 4 | **my voice** — how I talk, what I'd never say, people whose style I admire | `studio/voice/WRITING-CONSTANTS.md` (the owner's voice section) | ⬜ not started |

@@ -1,9 +1,10 @@
 # Owner
 
-- **Name:** Sam
-- **Business:** _not decided yet — Sam will name it later_
-- **In one line:** _not captured yet — comes from the first "grill me" interview (setup step 5)_
+- **Name:** Sambhav (goes by Sam)
+- **Business:** _no separate business — this system runs Sam's **career** in internal audit &
+  compliance, plus the assets he builds along the way (the risk & control database)._
+- **In one line:** "My profile is into internal auditing and compliance."
 - **Set up on:** 2026-08-08
 
-> Blanks here are deliberate, not forgotten. Nothing about the business gets written down
-> until Sam says it out loud. Ask him to fill these in whenever he's ready.
+> Sam's own words, captured 2026-08-08. The full picture lives in
+> [`brain/sessions/2026-08-08-goals-and-direction.md`](brain/sessions/2026-08-08-goals-and-direction.md).
