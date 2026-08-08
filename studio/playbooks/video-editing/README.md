@@ -2,8 +2,9 @@
 
 > For a complete beginner on a MacBook. Read top to bottom once; after that, use it as a
 > checklist. The AI can walk you through any step — just ask ("help me edit this video").
-> Switching the background with a green screen has its own page:
-> [`GREEN-SCREEN.md`](GREEN-SCREEN.md).
+> Two companion pages: [`GREEN-SCREEN.md`](GREEN-SCREEN.md) (switching your background) and
+> [`HYPERFRAMES.md`](HYPERFRAMES.md) — **the AI-built video workflow** (captions, animated
+> text, voiceover — you describe, the AI builds; most business videos end up made this way).
 
 ## 1. Pick your editor (start free)
 

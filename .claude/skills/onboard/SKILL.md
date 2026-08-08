@@ -79,9 +79,14 @@ Then, adapt to what's on the machine (check quietly with `git --version`, `comma
    newbie-friendly). If `gh` is missing, either install it (ask first) or fall back to
    creating the repository on github.com by hand — guide the clicks: New repository → name it
    (suggest the business name, lowercased) → **Private** → Create.
-4. **First push.** Create the private repo, wire the remote, push. Then show them the proof:
-   tell them to refresh their GitHub page and see their folder online. That moment matters —
-   let them enjoy it.
+4. **⚠️ Their own private repo, always.** This folder usually arrives as a clone of the
+   **public starter kit** (`github.com/ursaayush/business-os`) — check with
+   `git remote get-url origin`. If origin points there (or anywhere that isn't the owner's own
+   account), you MUST re-point it before the first push: create the owner's own **private**
+   repo and `git remote set-url origin <their-repo-url>`. **The owner's business data must
+   never be pushed to the public starter repo** — it's public, and it isn't theirs.
+5. **First push.** Push, then show them the proof: tell them to refresh their GitHub page and
+   see their folder online. That moment matters — let them enjoy it.
 
 Tick box 3.
 
