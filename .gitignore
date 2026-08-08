@@ -1,0 +1,4 @@
+.DS_Store
+scripts/*.log
+scripts/__pycache__/
+__pycache__/
