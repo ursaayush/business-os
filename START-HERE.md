@@ -22,11 +22,12 @@ That's it. Everything below this line is managed by the AI — you never have to
 
 ## Getting set up (the AI ticks these off with you)
 
-- [ ] **1. Meet & tour** — the AI introduced itself and gave you the 2-minute tour of this folder.
-- [ ] **2. Personalized** — your name and your business's name are filled in ([`OWNER.md`](OWNER.md)).
+- [x] **1. Meet & tour** — the AI introduced itself and gave you the 2-minute tour of this folder.
+- [x] **2. Personalized** — your name and your business's name are filled in ([`OWNER.md`](OWNER.md)).
+      _(Name: Sam. Business name still to come — Sam will decide it later.)_
 - [ ] **3. Backed up on GitHub** — your folder is safely copied to your own free GitHub account,
       so nothing is ever lost even if the laptop breaks.
-- [ ] **4. Automation on** — the two little helpers are installed (they keep the weekly rhythm
+- [x] **4. Automation on** — the two little helpers are installed (they keep the weekly rhythm
       going and tidy the board every morning, automatically).
 - [ ] **5. Your business captured** — you did a first "grill me" interview, so the AI knows what
       your business is, who it's for, and what you're aiming at.

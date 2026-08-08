@@ -6,14 +6,19 @@
 > **Last updated:** 2026-08-08 · ⛔ Before touching any issue: the
 > [PRIME DIRECTIVE](README.md#-the-prime-directive--close-what-you-open-read-before-touching-any-issue).
 
-## On you (the owner)
+## On you (Sam)
 
-- Say **"set me up"** to your AI assistant — it guides the whole setup, one step at a time.
+Two things only you can do — say the word and I'll walk you through either:
+
+1. **GitHub backup** (~5 min) — you sign in and click "Authorize" in your own browser. Until
+   this is done, this folder exists **only on this laptop**.
+2. **The first interview** ("grill me", ~20 min) — I ask, you talk, I write it down in your
+   words. Everything else is waiting on this.
 
 ## Right now
 
-- **#1 Finish setting up the Business OS** — the guided setup in
-  [`START-HERE.md`](../START-HERE.md). Everything else starts after this.
+- **#1 Finish setting up the Business OS** — steps 1, 2 and 4 are done (met, folder
+  personalized, automation running). Steps 3, 5 and 6 need Sam.
 
 ## In flight
 
