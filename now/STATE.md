@@ -3,7 +3,7 @@
 > **The heartbeat. Read this first.** One screen: what's on the owner, what's in flight, what's
 > next. **A snapshot, not a log** — history lives in [`weeks/`](weeks/) and
 > [`issues/completed/`](issues/completed/). Size budget ≤ ~60 lines; rewrite, don't append.
-> **Last updated:** 2026-08-08 · ⛔ Before touching any issue: the
+> **Last updated:** 2026-08-10 · ⛔ Before touching any issue: the
 > [PRIME DIRECTIVE](README.md#-the-prime-directive--close-what-you-open-read-before-touching-any-issue).
 
 ## On you (Sam)
@@ -30,6 +30,6 @@ Two things only you can do — say the word and I'll walk you through either:
 - First real piece of work: edit your first video —
   [`studio/playbooks/video-editing/`](../studio/playbooks/video-editing/README.md).
 
-## This week → [`weeks/2026-W32.md`](weeks/2026-W32.md)
+## This week → [`weeks/2026-W33.md`](weeks/2026-W33.md)
 
 Theme: **get set up and capture the business.**
